@@ -49,7 +49,8 @@ for line in text.splitlines():
 ```
 <H3> Output:</H3>
 
-![](1.png)
+![image](https://github.com/MunagalaSrinath/Ex-8--AAI/assets/118678482/638a78fe-3d70-4bfb-90cc-dcffb09888c3)
+
 
 <H3> Result:</H3>
 
